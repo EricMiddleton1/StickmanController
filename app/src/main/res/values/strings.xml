@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Stickman Controller</string>
+    <string name="connect_button_caption">Connect</string>
+    <string name="mode_spinner_caption">Stickman Mode:</string>
+    <string name="title_activity_start_page">Start Page</string>
+</resources>
